@@ -1,0 +1,5 @@
+echo torch > requirements.txt
+echo tiktoken >> requirements.txt
+echo numpy >> requirements.txt
+echo matplotlib >> requirements.txt
+echo jupyter >> requirements.txt
