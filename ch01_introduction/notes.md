@@ -4,7 +4,7 @@
 
 A Large Language Model (LLM) is a deep neural network trained on massive amounts of text to understand and generate human-like language. It learns by predicting the next word in a sentence, allowing it to recognize patterns, grammar, and context. Modern LLMs such as GPT and Llama can perform a wide variety of NLP tasks using a single model.
 
-![Nested diagram showing the relationship between artificial intelligence, machine learning, deep learning, large language models, and GenAI. The outermost layer is labeled Artificial Intelligence with the text: Systems with human-like intelligence. Within that is Machine Learning with the text: Algorithms that learn rules automatically from data. Inside Machine Learning is Deep Learning showing: Machine learning with neural networks consisting of many layers, and a box labeled Deep learning. Large language models are shown inside the Deep learning section with the text: Deep neural network for parsing and generating human-like text. GenAI is positioned to the right of Large language models with the text: GenAI involves the use of deep neural networks to create new content, such as text, images, or various forms of media. Arrows connect Large language models bidirectionally with GenAI.](../assets/llm.png)
+![LLM](../assets/llm.png)
 
 ---
 
