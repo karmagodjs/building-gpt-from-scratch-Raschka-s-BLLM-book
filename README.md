@@ -31,5 +31,5 @@ Each chapter folder has a notes.md with my understanding,
 key insights, and things that surprised me.
 
 ## 🔗 Follow Along
-- LinkedIn: linkedin.com/in/dhruv-kumar-67b26334b
-- Medium: medium.com/@rafftarsingh7982
+- LinkedIn: [linkedin.com/in/dhruv-kumar-67b26334b](https://www.linkedin.com/in/dhruv-kumar-67b26334b/)
+- Medium: [medium.com/@rafftarsingh7982](https://medium.com/@rafftarsingh7982)
