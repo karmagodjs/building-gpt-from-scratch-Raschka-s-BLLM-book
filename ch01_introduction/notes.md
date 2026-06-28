@@ -90,25 +90,29 @@ Each chapter of this repository will implement these components step by step usi
 ## 💭 My Thoughts
 
 ### What clicked for me
-- LLM basically next token predict karta hai — itna simple idea,
-  itna powerful output. Yeh samajh aaya toh sab kuch settle ho gaya
-- Pretraining → Fine-tuning pipeline clear ho gaya. Pehle lagta tha
-  fine-tuning matlab naya model, actually sirf direction change hoti hai
+- LLMs are just next token predictors — such a simple idea producing
+  such powerful output. Once this clicked, everything else made sense
+- The Pretraining → Fine-tuning pipeline finally made sense. I used to
+  think fine-tuning meant a new model — it is just redirecting what
+  already exists
 
 ### What surprised me
-- Scale itna matter karta hai — architecture nahi badla, sirf data
-  aur parameters badhaye, performance jump kar gaya
-- GPT-2 aur GPT-3 ka architecture almost same hai — sirf size different
+- Scale matters more than architecture — same design, more data and
+  parameters, performance jumps significantly
+- GPT-2 and GPT-3 are architecturally almost identical — just different
+  sizes
 
 ### What I still don't fully get
-- Exactly kaise emergent abilities aati hain scale ke saath
-- In-context learning kyun kaam karta hai theoretically
+- How emergent abilities appear at scale — no clear theoretical answer yet
+- Why in-context learning works without any weight updates
 
 ### Real world connection
-- Maine CalSnap mein Claude Vision API use ki thi — tab sirf output
-  dekha tha. Ab samajh aa raha hai andar kya ho raha hoga
-- Karpathy ka Zero to Hero karke aaya hoon — usne character-level
-  predict kiya tha, yeh usi ka large scale version hai essentially
+- I used the Claude Vision API in my CalSnap project — only cared about
+  the output back then. Now I am starting to understand what is happening
+  under the hood
+- Came here after finishing Karpathy's Zero to Hero — that was
+  character-level prediction. This is essentially the same idea at massive
+  scale
 
 ---
 
