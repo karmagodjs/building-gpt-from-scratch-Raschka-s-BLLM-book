@@ -1,5 +1,7 @@
 # Chapter 1: Understanding Large Language Models
 
+> 📝 **Note:** This is a personal summary of Chapter 1, written in my own words for better understanding.
+
 ## 1.1 What is an LLM?
 
 A Large Language Model (LLM) is a deep neural network trained on massive amounts of text to understand and generate human-like language. It learns by predicting the next word in a sentence, allowing it to recognize patterns, grammar, and context. Modern LLMs such as GPT and Llama can perform a wide variety of NLP tasks using a single model.
