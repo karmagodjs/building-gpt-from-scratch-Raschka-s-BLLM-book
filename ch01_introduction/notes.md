@@ -86,3 +86,33 @@ Each chapter of this repository will implement these components step by step usi
 * GPT uses a decoder-only architecture for text generation.
 * Training consists of pretraining followed by fine-tuning.
 * Large datasets and self-attention are the key factors behind LLM performance.
+
+## 💭 My Thoughts
+
+### What clicked for me
+- LLM basically next token predict karta hai — itna simple idea,
+  itna powerful output. Yeh samajh aaya toh sab kuch settle ho gaya
+- Pretraining → Fine-tuning pipeline clear ho gaya. Pehle lagta tha
+  fine-tuning matlab naya model, actually sirf direction change hoti hai
+
+### What surprised me
+- Scale itna matter karta hai — architecture nahi badla, sirf data
+  aur parameters badhaye, performance jump kar gaya
+- GPT-2 aur GPT-3 ka architecture almost same hai — sirf size different
+
+### What I still don't fully get
+- Exactly kaise emergent abilities aati hain scale ke saath
+- In-context learning kyun kaam karta hai theoretically
+
+### Real world connection
+- Maine CalSnap mein Claude Vision API use ki thi — tab sirf output
+  dekha tha. Ab samajh aa raha hai andar kya ho raha hoga
+- Karpathy ka Zero to Hero karke aaya hoon — usne character-level
+  predict kiya tha, yeh usi ka large scale version hai essentially
+
+---
+
+## 🔗 Resources I Found Helpful
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Andrej Karpathy — Neural Networks Zero to Hero](https://youtu.be/kCc8FmEb1nY)
+- [Raschka's Book GitHub](https://github.com/rasbt/LLMs-from-scratch)
