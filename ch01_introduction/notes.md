@@ -33,11 +33,15 @@ Developing an LLM generally involves two stages:
 
 This approach allows one foundation model to solve many downstream tasks.
 
+![stages](../assets/stages.png)
+
 ---
 
 ## 1.4 Introducing the Transformer Architecture
 
 Most modern LLMs are based on the Transformer architecture. It uses a mechanism called **Self-Attention** to understand relationships between words in a sentence. GPT models use only the decoder part of the Transformer, making them efficient for text generation.
+
+![Trans](../assets/Trans.png)
 
 ---
 
@@ -50,6 +54,8 @@ LLMs are trained on enormous datasets collected from books, websites, Wikipedia,
 ## 1.6 A Closer Look at the GPT Architecture
 
 GPT stands for **Generative Pre-trained Transformer**. It generates text one token at a time by predicting the next word based on previous words. Although trained only for next-word prediction, GPT can also perform tasks like translation, summarization, coding, and question answering.
+
+![GPT-Architecture](../assets/GPT-Arc.png)
 
 ---
 
